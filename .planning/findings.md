@@ -1,0 +1,3 @@
+- Unity 版本为 2022.3.62f3c1，包中含 uGUI，无第三方 OBJ 导入器。
+- cc.obj 是 5 顶点、6 面的简单金字塔，顶点坐标范围约 [-100,100]。
+- 场景只有 SampleScene，适合用 RuntimeInitializeOnLoadMethod 自启动演示，避免手动编辑 YAML 场景。
